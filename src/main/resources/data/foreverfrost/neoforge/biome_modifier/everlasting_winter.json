@@ -1,0 +1,5 @@
+{
+  "type": "foreverfrost:winter_modifier",
+  "biomes": "#minecraft:is_overworld",
+  "step": "after_all"
+}

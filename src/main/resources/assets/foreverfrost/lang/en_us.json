@@ -1,0 +1,14 @@
+{
+  "itemGroup.foreverfrost": "Forever Frost",
+
+
+  "foreverfrost.configuration.title": "For_ever_Frost Configs",
+  "foreverfrost.configuration.section.foreverfrost.common.toml": "For_ever_Frost Configs",
+  "foreverfrost.configuration.section.foreverfrost.common.toml.title": "For_ever_Frost Configs",
+  "foreverfrost.configuration.items": "Item List",
+  "foreverfrost.configuration.logDirtBlock": "Log Dirt Block",
+  "foreverfrost.configuration.magicNumberIntroduction": "Magic Number Text",
+  "foreverfrost.configuration.magicNumber": "Magic Number",
+
+  "item.foreverfrost.snow_ball": "Snow_Ball"
+}
